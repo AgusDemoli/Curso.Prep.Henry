@@ -14,7 +14,11 @@
   },
   "devDependencies": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "eslint": "^4.13.1",
+=======
+    "eslint": "^7.14.0",
+>>>>>>> da3a178b1fa605260fec1aa33fffd1c049b9967d
 =======
     "eslint": "^7.14.0",
 >>>>>>> da3a178b1fa605260fec1aa33fffd1c049b9967d
