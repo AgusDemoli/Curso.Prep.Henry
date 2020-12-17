@@ -13,10 +13,14 @@
     "test7": "jest JSVI.test.js  --useStderr --json --outputFile=./07-JS-VI/homework/tests/result.json"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "eslint": "^4.13.1",
+=======
+    "eslint": "^7.14.0",
+>>>>>>> da3a178b1fa605260fec1aa33fffd1c049b9967d
     "jest": "^26.6.3",
     "node-fetch": "^2.6.1",
-    "prompt-sync": "^4.2.0"
+    "prompts": "^2.4.0"
   },
   "author": "Henry",
   "license": "ISC",
